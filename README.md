@@ -6,6 +6,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#demo">Demo</a></li>
       </ul>
     </li>
     <li>
@@ -20,15 +21,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Collections of REST integrations using serverless
+Collections of REST integrations using serverless.
 
-- [serverless-fask](/serverless-fast/)
+- [serverless-fast](/serverless-fast/)
 - [serverless-flask]((/serverless-flask/)
 
 
-### Built With <3
+### Built With
 
 * [https://www.serverless.com/](serverless)
+
+
+### Demo
+
+- [flask-demo](https://hsdmx3gm9l.execute-api.us-east-1.amazonaws.com/dev/quote)
+- [fast-demo](https://5qadhsmcme.execute-api.us-east-1.amazonaws.com/dev/)
 
 <!-- CONTACT -->
 ## Contact
