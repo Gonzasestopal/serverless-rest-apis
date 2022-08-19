@@ -87,6 +87,6 @@ To get a local copy up and running follow these simple steps.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
+Gonzalo Sestopal - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
 
 Project Link: [https://github.com/Gonzasestopal/lambda-integrations](https://github.com/Gonzasestopal/lambda-integrations)

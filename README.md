@@ -24,7 +24,7 @@
 Collections of REST integrations using serverless.
 
 - [serverless-fast](/serverless-fast/)
-- [serverless-flask]((/serverless-flask/)
+- [serverless-flask](/serverless-flask/)
 
 
 ### Built With
@@ -40,6 +40,6 @@ Collections of REST integrations using serverless.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
+Gonzalo Sestopal - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
 
 Project Link: [https://github.com/Gonzasestopal/lambda-integrations](https://github.com/Gonzasestopal/lambda-integrations)

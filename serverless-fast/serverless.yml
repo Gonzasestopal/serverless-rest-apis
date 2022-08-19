@@ -6,6 +6,7 @@ provider:
  runtime: python3.9
  region: us-east-1
  memorySize: 128
+ stage: ${opt:stage, "dev"}
 
 package:
   individually: true
@@ -24,6 +25,8 @@ custom:
 functions:
   app:
     handler: main.handler
+    environment:
+      STAGE: ${self:provider.stage}
     events:
      - http: ANY /
      - http: 'ANY {proxy+}'

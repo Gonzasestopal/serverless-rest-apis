@@ -6,7 +6,8 @@ from mangum import Mangum
 stage = os.environ.get('STAGE', None)
 openapi_prefix = f"/{stage}" if stage else "/"
 
-app = FastAPI()
+# Here is the magic
+app = FastAPI(openapi_prefix=openapi_prefix)
 
 
 @app.get("/")
