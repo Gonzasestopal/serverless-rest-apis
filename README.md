@@ -10,10 +10,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -26,31 +22,13 @@
 
 Collections of REST integrations using serverless
 
+- [serverless-fask](/serverless-fast/)
+- [serverless-flask]((/serverless-flask/)
 
-### Built With
+
+### Built With <3
 
 * [https://www.serverless.com/](serverless)
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- System dependencies
-  ```sh
-  nvm install node
-  ```
-
-- App dependencies
-
-  ```sh
-  npm i
-  ```
 
 <!-- CONTACT -->
 ## Contact

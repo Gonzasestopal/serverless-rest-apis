@@ -1,0 +1,41 @@
+
+service: user-service
+
+provider:
+ name: aws
+ runtime: python3.9
+ region: us-east-1
+ memorySize: 128
+
+package:
+  individually: true
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
+    layer:
+      name: common-layer
+      description: Common requirements Layer
+
+
+functions:
+  app:
+    handler: main.handler
+    events:
+     - http: ANY /
+     - http: 'ANY {proxy+}'
+    layers:
+      - { Ref: PythonRequirementsLambdaLayer }
+    package:
+      include:
+        - "main.py"
+      exclude:
+        - "requirements.txt"
+        - "package.json"
+        - "package-lock.json"
+        - ".serverless/**"
+        - ".venv/**"
+        - "node_modules/**"
