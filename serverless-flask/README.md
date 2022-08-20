@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gonzasestopal/lambda-integrations/serverless-flask">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Logo">
+    <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png">
   </a>
 
   <h3 align="center">Quotes Service</h3>
