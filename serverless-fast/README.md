@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gonzasestopal/lambda-integrations/serverless-fast">
-    <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" alt="Logo" width="80" height="80">
+    <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png">
   </a>
 
   <h3 align="center">Users Service</h3>
