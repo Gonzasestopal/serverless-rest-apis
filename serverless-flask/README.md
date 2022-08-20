@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/gonzasestopal/lambda-integrations/serverless-flask">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://fastapi.tiangolo.com/" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Quotes Service</h3>
@@ -66,7 +66,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gonzasestopal/lambda-integrations.git
+   git clone https://github.com/gonzasestopal/serverless-rest-apis.git
    ```
 2. Install NPM packages
    ```sh
@@ -89,4 +89,4 @@ To get a local copy up and running follow these simple steps.
 
 Gonzalo Sestopal - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
 
-Project Link: [https://github.com/Gonzasestopal/lambda-integrations](https://github.com/Gonzasestopal/lambda-integrations)
+Project Link: [https://github.com/Gonzasestopal/serverless-rest-apis](https://github.com/Gonzasestopal/lambda-integrations)

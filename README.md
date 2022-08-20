@@ -42,4 +42,4 @@ Collections of REST integrations using serverless.
 
 Gonzalo Sestopal - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
 
-Project Link: [https://github.com/Gonzasestopal/lambda-integrations](https://github.com/Gonzasestopal/lambda-integrations)
+Project Link: [https://github.com/Gonzasestopal/serverless-rest-apis](https://github.com/Gonzasestopal/lambda-integrations)
