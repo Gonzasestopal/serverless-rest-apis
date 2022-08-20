@@ -35,7 +35,7 @@ Collections of REST integrations using serverless.
 ### Demo
 
 - [flask-demo](https://hsdmx3gm9l.execute-api.us-east-1.amazonaws.com/dev/quote)
-- [fast-demo](https://5qadhsmcme.execute-api.us-east-1.amazonaws.com/dev/)
+- [fast-demo](https://5qadhsmcme.execute-api.us-east-1.amazonaws.com/dev/docs)
 
 <!-- CONTACT -->
 ## Contact
