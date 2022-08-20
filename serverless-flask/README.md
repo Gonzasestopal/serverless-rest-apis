@@ -31,7 +31,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -82,11 +81,3 @@ To get a local copy up and running follow these simple steps.
     ```sh
     serverless wsgi serve
     ```
-
-
-<!-- CONTACT -->
-## Contact
-
-Gonzalo Sestopal - [@gonzasestopal](https://www.linkedin.com/in/gonzasestopal/) - gonzasestopal@gmail.com
-
-Project Link: [https://github.com/Gonzasestopal/serverless-rest-apis](https://github.com/Gonzasestopal/lambda-integrations)
